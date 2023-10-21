@@ -1,0 +1,20 @@
+{
+    "name": "CRUDproject",
+    "version": "1.0.0",
+    "description": "CRUDproject",
+    "main": "index.js",
+    "scripts": {
+        "index": "node index.js index",
+        "create": "node index.js create",
+        "show": "node index.js show",
+        "update": "node index.js update",
+        "destroy": "node index.js destroy",
+        "score": "node index.js score"
+    },
+    "keywords": [],
+    "author": "Lenny Lopez",
+    "license": "ISC",
+    "dependencies": {
+        "nanoid": "^5.0.2"
+    }
+}

@@ -1,0 +1,20 @@
+[
+    {
+      "carName": "Nissan Altima",
+      "year": 2000,
+      "priceInCents": 200000,
+      "id": 112233
+    },
+    {
+      "carName": "Honda Civic",
+      "year": "2001",
+      "priceInCents": 150000,
+      "id": 223344
+    },
+    {
+      "carName": "Ford Mustang",
+      "year": "206",
+      "priceInCents": 300000,
+      "id": 334455
+    }
+  ]
